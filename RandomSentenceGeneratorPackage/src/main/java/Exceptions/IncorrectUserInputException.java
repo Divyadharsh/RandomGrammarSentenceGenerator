@@ -2,7 +2,7 @@ package Exceptions;
 
 /**
  * IncorrectUserInputException is an exception class that prints the error message
- * @author  nikethaanand-divyadharshini
+ * @author divyadharshinimuruganandham
  */
 public class IncorrectUserInputException extends Exception{
 
