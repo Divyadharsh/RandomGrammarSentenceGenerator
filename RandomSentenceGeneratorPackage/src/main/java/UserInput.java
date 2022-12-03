@@ -9,7 +9,7 @@ import java.io.File;
 
 /**
  * Class UserInput processes the input entered by user
- * @author nikethaanand-divyadharshini
+ * @author divyadharshinimuruganandham
  */
 public class UserInput {
   private static final String grammarFolder = "/grammarTemplates";
