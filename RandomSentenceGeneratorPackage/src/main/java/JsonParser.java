@@ -8,7 +8,7 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
 /** Class JsonParser loads Json file
- * @author nikethaanand-divyadharshini
+ * @author divyadharshinimuruganandham
  */
 public class JsonParser {
 
