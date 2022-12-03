@@ -1,7 +1,7 @@
 package Exceptions;
 /**
  * UndefinedInputException is an exception class that prints the error message
- * @author  nikethaanand-divyadharshini
+ * @author divyadharshinimuruganandham
  */
 
 public class UndefinedInputException extends  Exception{
