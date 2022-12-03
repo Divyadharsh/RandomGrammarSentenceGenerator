@@ -6,7 +6,7 @@ import java.io.IOException;
 
 /**
  * Class Main is the Class to be run while compiling
- * @author nikethaanand-divyadharshini
+ * @author divyadharshinimuruganandham
  */
 public class Main {
     /**
