@@ -5,7 +5,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 /**
  * Class GrammarProcessor used to process Json File and load random sentences
- * @author nikethaanand-divyadharshini
+ * @author divyadharshinimuruganandham
  */
 public class GrammarProcessor {
     /**
